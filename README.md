@@ -1,6 +1,6 @@
 # PLv3-destroyer script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdAsync-alt/PLv3/refs/heads/main/main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdAsync-alt/PLv3/refs/heads/main/main.lua"))()
 ```
 
 # Features
