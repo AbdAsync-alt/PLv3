@@ -15,7 +15,7 @@ This script was created to be a universal PLv3 script, it works in every PLv3 ga
 - Gravity manipulation
 
 # Credits
-- AbdAsync writing the script 800+ lines
+- AbdAsync author
 - UI Library created by Despo with the help of the Lord. Check it out [here](https://github.com/depthso/Dear-ReGui)
 
 
