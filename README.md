@@ -17,5 +17,6 @@ This script was created to be a universal PLv3 script, it works in every PLv3 ga
 # Credits
 - AbdAsync author
 - UI Library created by Despo with the help of the Lord. Check it out [here](https://github.com/depthso/Dear-ReGui)
+- [Adonis bypass](https://github.com/Pixeluted/adoniscries) by Pixeluted
 
 
